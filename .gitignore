@@ -105,3 +105,7 @@ docs/_build/
 *.egg-info/
 *.log
 chemspax/*.log
+
+
+# Test coverage file
+.coverage
